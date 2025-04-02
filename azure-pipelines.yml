@@ -35,10 +35,10 @@ steps:
 
    inputs:
 
-         azureSubscription: '<your-service-connection>'
+         azureSubscription: Azure for Students
 
          appType: 'webAppLinux'
 
-         appName: '<your-unique-app-name>'
+         appName: ClassLab
 
          package: '.'
